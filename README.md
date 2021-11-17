@@ -1,4 +1,3 @@
-# Securesec
 <h1 align="center">Hi 👋, I'm Anju Jose</h1>
 <h3 align="center">A passionate cyber security student</h3>
 
